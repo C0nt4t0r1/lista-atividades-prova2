@@ -9,7 +9,7 @@ Este repositório contém um notebook Jupyter com uma lista de atividades de ref
 1. Certifique-se de ter o Python e o Jupyter Notebook instalados.
 2. Clone o repositório:
    ```bash
-   git clone git clone https://github.com/seu-usuario/nome-repositorio.git
+   git clone git clone https://github.com/C0nt4t0r1/lista-atividades-prova2.git
    ```
 3. Abra o arquivo no Jupyter:
    ```bash
